@@ -4,7 +4,7 @@ A professional **data analytics dashboard** analyzing Porter delivery operations
 The dashboard highlights **order patterns, delivery performance, partner workload, and operational efficiency across markets and store categories**.
 
 ---
-## 📁 Dataset
+## Dataset
 
 > Due to GitHub file size limitations, the full dataset is hosted on One Drive.
 
